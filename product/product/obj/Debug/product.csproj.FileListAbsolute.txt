@@ -1,0 +1,15 @@
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\bin\Debug\product.exe.config
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\bin\Debug\product.exe
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\bin\Debug\product.pdb
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.csprojResolveAssemblyReference.cache
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.Form1.resources
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.Properties.Resources.resources
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.csproj.GenerateResource.Cache
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.exe
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.pdb
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.Form2.resources
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.product.resources
+c:\users\elcot\documents\visual studio 2013\Projects\product\product\obj\Debug\product.customer.resources
+C:\Users\ELCOT\Documents\Visual Studio 2013\Projects\product\product\obj\Debug\product.adminlogin.resources
+C:\Users\ELCOT\Documents\Visual Studio 2013\Projects\product\product\obj\Debug\product.customerlogin.resources
+C:\Users\ELCOT\Documents\Visual Studio 2013\Projects\product\product\obj\Debug\product.productlist.resources
